@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Web_test_01",
+"productName": "ClickerGame",
 "productVersion": "0.1",
 "dataUrl": "Built.data.unityweb",
 "wasmCodeUrl": "Built.wasm.code.unityweb",
